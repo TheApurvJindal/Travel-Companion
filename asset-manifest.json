@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Travel-Companion/static/js/main.c984431d.js",
+    "main.js": "/Travel-Companion/static/js/main.f5265b09.js",
     "index.html": "/Travel-Companion/index.html",
-    "main.c984431d.js.map": "/Travel-Companion/static/js/main.c984431d.js.map"
+    "main.f5265b09.js.map": "/Travel-Companion/static/js/main.f5265b09.js.map"
   },
   "entrypoints": [
-    "static/js/main.c984431d.js"
+    "static/js/main.f5265b09.js"
   ]
 }
